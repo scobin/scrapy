@@ -1,0 +1,12 @@
+Strict-Transport-Security: max-age=86400; includeSubDomains
+Content-Type: text/html; charset=UTF-8
+Expires: Sun, 06 Jan 2019 04:40:17 GMT
+Date: Sun, 06 Jan 2019 04:40:17 GMT
+Cache-Control: private, max-age=0
+Last-Modified: Sat, 05 Jan 2019 09:30:35 GMT
+Etag: W/"e51c4a0f0b03140aa8888bef731c196ef8b0f241376592d8e8b7d5cf1c20af7d"
+Content-Encoding: gzip
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Server: GSE
+Alt-Svc: quic=":443"; ma=2592000; v="44,43,39,35"
